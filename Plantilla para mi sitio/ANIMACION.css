@@ -1,0 +1,30 @@
+img {
+  position: relative;
+  animation-name: desplasarse;
+  animation-duration: 3s;
+ }
+ @keyframes desplasarse{
+  from {
+    left: 0%;
+  }
+  to {
+    left: 80%;
+  }
+ }
+
+
+
+
+
+ h2 {
+   background-color: rgb(102, 255, 0);
+   margin-right: 30em;
+   width: 200px;
+   height: 200px;
+   transition: 3s;
+}
+
+ h2:hover {
+    transform: scalex(2) translate(25px);
+    background-color: green;
+ }

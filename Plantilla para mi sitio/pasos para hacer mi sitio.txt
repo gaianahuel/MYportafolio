@@ -1,0 +1,4 @@
+1. Reunir las fotos y gráficos en una carpeta. hacer un boceto en papel
+2. Hacer el diseño terminado en CANVA  y exportarlo a escritorio.
+3. Hacer el sitio con el diseño, escribiendo CSS y HTML.
+4. Subirlo a githab y mi sitio 
