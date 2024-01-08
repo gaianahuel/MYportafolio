@@ -1,0 +1,85 @@
+body{
+  background-color: rgb(22, 22, 21);
+}
+a{
+color: rgb(0, 0, 0);
+text-decoration: none;
+margin-left: 150px;
+display: inline-block;
+}
+.caja1{
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  height: 50px;
+}
+
+footer{
+  background-color: slategray;
+  height: 270px;
+}
+
+.div1{
+  width: 600px;
+  height: 400px;
+  border-radius: 8px;
+  margin-left: 450px;
+  /* background-color: antiquewhite; */
+}
+
+.Yo{
+width: 300px;
+height: 300px;
+color: black;
+}
+
+.redes{
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+}
+
+h1{
+  margin-left: 200px;
+}
+
+h4{
+  margin-left: 100px;
+}
+
+.cabeza1{
+  margin-left: 400px;
+  color: antiquewhite;
+}
+h3{
+  margin-left: 200px;
+  color: rgb(204, 226, 77);
+}
+.barra{
+  width: 150px;
+  height: 7px;
+  background-color: blue;
+  margin-left: 190px;
+  border-radius: 8px;
+}
+
+.servicios{
+  margin-left: 200px;
+}
+
+.section1{
+  width: 150px;
+  height: 200px;
+  /* background-color: rgb(201, 209, 209); */
+  margin: 20px;
+  display: inline-block;
+}
+
+.im3{
+  width: 150px;
+  height: 150px;
+}
+
+
+
+
+
